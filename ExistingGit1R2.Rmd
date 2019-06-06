@@ -1,0 +1,22 @@
+---
+title: "ExistingGit1R2"
+author: "Michael Friedman"
+date: "6/6/2019"
+output: html_document
+---
+
+# https://happygitwithr.com/existing-github-first.html
+# be sure project options have a git repo set to NONE
+
+# this tutorial will move an existing .rmd  file with no association with github into a repositiory on git hub
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# create mock .rmd file in R
+# create new Repository on GitHub
+#         initialize README
+# clone repo link
